@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PruebaComjuntaP2.props" />
+</Project>
