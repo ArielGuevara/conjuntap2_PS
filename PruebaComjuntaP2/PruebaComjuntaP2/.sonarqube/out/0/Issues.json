@@ -14,312 +14,6 @@
         {
           "ruleId": "CS8618",
           "level": "warning",
-          "message": "El elemento propiedad \"Nombre\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 110,
-                  "startColumn": 23,
-                  "endLine": 110,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 110,
-                  "startColumn": 23,
-                  "endLine": 110,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "El elemento propiedad \"Descripcion\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 111,
-                  "startColumn": 23,
-                  "endLine": 111,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 111,
-                  "startColumn": 23,
-                  "endLine": 111,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "El elemento propiedad \"Nombre\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 152,
-                  "startColumn": 23,
-                  "endLine": 152,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 152,
-                  "startColumn": 23,
-                  "endLine": 152,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "El elemento propiedad \"Apellido\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 154,
-                  "startColumn": 23,
-                  "endLine": 154,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 154,
-                  "startColumn": 23,
-                  "endLine": 154,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "El elemento propiedad \"Categoria\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 116,
-                  "startColumn": 26,
-                  "endLine": 116,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 116,
-                  "startColumn": 26,
-                  "endLine": 116,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "El elemento propiedad \"Email\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 156,
-                  "startColumn": 23,
-                  "endLine": 156,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 156,
-                  "startColumn": 23,
-                  "endLine": 156,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "El elemento propiedad \"Telefono\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 157,
-                  "startColumn": 23,
-                  "endLine": 157,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 157,
-                  "startColumn": 23,
-                  "endLine": 157,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "El elemento propiedad \"Producto\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 135,
-                  "startColumn": 25,
-                  "endLine": 135,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 135,
-                  "startColumn": 25,
-                  "endLine": 135,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "El elemento propiedad \"Cliente\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 144,
-                  "startColumn": 24,
-                  "endLine": 144,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 144,
-                  "startColumn": 24,
-                  "endLine": 144,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
           "message": "El elemento propiedad \"Productos\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
           "suppressionStates": [
             "suppressedInSource"
@@ -474,6 +168,176 @@
               "resultFile": {
                 "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
                 "region": {
+                  "startLine": 110,
+                  "startColumn": 23,
+                  "endLine": 110,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 23,
+                  "endLine": 110,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Descripcion\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 23,
+                  "endLine": 111,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 23,
+                  "endLine": 111,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Categoria\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 116,
+                  "startColumn": 26,
+                  "endLine": 116,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 116,
+                  "startColumn": 26,
+                  "endLine": 116,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Producto\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 25,
+                  "endLine": 135,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 135,
+                  "startColumn": 25,
+                  "endLine": 135,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Cliente\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 144,
+                  "startColumn": 24,
+                  "endLine": 144,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
+                  "startLine": 144,
+                  "startColumn": 24,
+                  "endLine": 144,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Nombre\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el propiedad como un valor que acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "region": {
                   "startLine": 124,
                   "startColumn": 23,
                   "endLine": 124,
@@ -525,6 +389,300 @@
                   "startColumn": 23,
                   "endLine": 125,
                   "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 30,
+                  "endLine": 74,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 28,
+                  "endLine": 75,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 25,
+                  "endLine": 77,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 29,
+                  "endLine": 78,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/ProductoController.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 26,
+                  "endLine": 93,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/ProductoController.cs",
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 33,
+                  "endLine": 94,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/ProductoController.cs",
+                "region": {
+                  "startLine": 95,
+                  "startColumn": 31,
+                  "endLine": 95,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 32,
+                  "endLine": 108,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 30,
+                  "endLine": 109,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 111,
+                  "startColumn": 27,
+                  "endLine": 111,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 112,
+                  "startColumn": 31,
+                  "endLine": 112,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/ProductoController.cs",
+                "region": {
+                  "startLine": 150,
+                  "startColumn": 31,
+                  "endLine": 150,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/ProductoController.cs",
+                "region": {
+                  "startLine": 151,
+                  "startColumn": 38,
+                  "endLine": 151,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Un tipo que acepta valores NULL puede ser nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/ProductoController.cs",
+                "region": {
+                  "startLine": 152,
+                  "startColumn": 36,
+                  "endLine": 152,
+                  "endColumn": 64
                 }
               }
             }
@@ -799,18 +957,39 @@
           }
         },
         {
-          "ruleId": "S6964",
+          "ruleId": "S1905",
           "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "message": "Remove this unnecessary cast to 'DateTime'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
                 "region": {
-                  "startLine": 108,
-                  "startColumn": 20,
-                  "endLine": 108,
-                  "endColumn": 22
+                  "startLine": 76,
+                  "startColumn": 31,
+                  "endLine": 76,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to 'DateTime'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Controllers/VentaController.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 33,
+                  "endLine": 110,
+                  "endColumn": 41
                 }
               }
             }
@@ -826,222 +1005,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
+                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/Dtos/VentaDto.cs",
                 "region": {
-                  "startLine": 150,
-                  "startColumn": 20,
-                  "endLine": 150,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 132,
-                  "startColumn": 20,
-                  "endLine": 132,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 122,
-                  "startColumn": 20,
-                  "endLine": 122,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 134,
-                  "startColumn": 20,
-                  "endLine": 134,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 113,
-                  "startColumn": 24,
-                  "endLine": 113,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 137,
-                  "startColumn": 20,
-                  "endLine": 137,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 139,
+                  "startLine": 8,
                   "startColumn": 25,
-                  "endLine": 139,
+                  "endLine": 8,
                   "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 141,
-                  "startColumn": 24,
-                  "endLine": 141,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 143,
-                  "startColumn": 20,
-                  "endLine": 143,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 114,
-                  "startColumn": 20,
-                  "endLine": 114,
-                  "endColumn": 33
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6964",
-          "level": "warning",
-          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/Ariel/Documentos/Repositorios/Pruebas_Software_p2p_buena/PruebaComjuntaP2/PruebaComjuntaP2/AppDBContext.cs",
-                "region": {
-                  "startLine": 115,
-                  "startColumn": 20,
-                  "endLine": 115,
-                  "endColumn": 31
                 }
               }
             }
@@ -1066,6 +1035,20 @@
             ]
           }
         },
+        "CS8629": {
+          "id": "CS8629",
+          "shortDescription": "Un tipo que acepta valores NULL puede ser nulo.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8629)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
         "S1192": {
           "id": "S1192",
           "shortDescription": "String literals should not be duplicated",
@@ -1078,6 +1061,23 @@
             "tags": [
               "C#",
               "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1905": {
+          "id": "S1905",
+          "shortDescription": "Redundant casts should not be used",
+          "fullDescription": "Casting expressions are utilized to convert one data type to another, such as transforming an integer into a string. This is especially crucial in strongly typed languages like C, C++, C#, Java, Python, and others.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1905",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
               "SonarWay"
             ]
           }

@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionInventario.Categoria, PruebaComjuntaP2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionInventario.Dtos.CategoriaDto, PruebaComjuntaP2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -28,14 +28,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "categoria",
-        "Type": "GestionInventario.Categoria",
+        "Name": "categoriaDto",
+        "Type": "GestionInventario.Dtos.CategoriaDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "GestionInventario.Categoria",
+        "Type": "GestionInventario.Dtos.CategoriaDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "GestionInventario.Categoria",
+        "Type": "GestionInventario.Dtos.CategoriaDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -85,8 +85,8 @@
         "IsRequired": true
       },
       {
-        "Name": "categoria",
-        "Type": "GestionInventario.Categoria",
+        "Name": "categoriaDto",
+        "Type": "GestionInventario.Dtos.CategoriaDto",
         "IsRequired": true
       }
     ],
@@ -118,7 +118,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionInventario.Cliente, PruebaComjuntaP2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionInventario.Dtos.ClienteDto, PruebaComjuntaP2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -137,14 +137,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "cliente",
-        "Type": "GestionInventario.Cliente",
+        "Name": "clienteDto",
+        "Type": "GestionInventario.Dtos.ClienteDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "GestionInventario.Cliente",
+        "Type": "GestionInventario.Dtos.ClienteDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -170,7 +170,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "GestionInventario.Cliente",
+        "Type": "GestionInventario.Dtos.ClienteDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -194,8 +194,8 @@
         "IsRequired": true
       },
       {
-        "Name": "cliente",
-        "Type": "GestionInventario.Cliente",
+        "Name": "clienteDto",
+        "Type": "GestionInventario.Dtos.ClienteDto",
         "IsRequired": true
       }
     ],
@@ -227,7 +227,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionInventario.Producto, PruebaComjuntaP2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionInventario.Dtos.ProductoDto, PruebaComjuntaP2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -246,14 +246,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "producto",
-        "Type": "GestionInventario.Producto",
+        "Name": "productoDto",
+        "Type": "GestionInventario.Dtos.ProductoDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "GestionInventario.Producto",
+        "Type": "GestionInventario.Dtos.ProductoDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -279,7 +279,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "GestionInventario.Producto",
+        "Type": "GestionInventario.Dtos.ProductoDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -303,8 +303,8 @@
         "IsRequired": true
       },
       {
-        "Name": "producto",
-        "Type": "GestionInventario.Producto",
+        "Name": "productoDto",
+        "Type": "GestionInventario.Dtos.ProductoDto",
         "IsRequired": true
       }
     ],
@@ -336,7 +336,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionInventario.Venta, PruebaComjuntaP2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionInventario.Dtos.VentaDto, PruebaComjuntaP2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -355,14 +355,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "venta",
-        "Type": "GestionInventario.Venta",
+        "Name": "ventaDto",
+        "Type": "GestionInventario.Dtos.VentaDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "GestionInventario.Venta",
+        "Type": "GestionInventario.Dtos.VentaDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -388,7 +388,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "GestionInventario.Venta",
+        "Type": "GestionInventario.Dtos.VentaDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -412,8 +412,8 @@
         "IsRequired": true
       },
       {
-        "Name": "venta",
-        "Type": "GestionInventario.Venta",
+        "Name": "ventaDto",
+        "Type": "GestionInventario.Dtos.VentaDto",
         "IsRequired": true
       }
     ],

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System;
+using GestionInventario.Dtos;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -19,43 +19,77 @@ namespace GestionInventario.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Venta>>> GetVentas()
+        public async Task<ActionResult<IEnumerable<VentaDto>>> GetVentas()
         {
-            return await _context.Ventas.Include(v => v.Producto).ToListAsync();
+            return await _context.Ventas
+                .Select(v => new VentaDto
+                {
+                    Id = v.Id,
+                    ProductoId = v.ProductoId,
+                    Cantidad = v.Cantidad,
+                    FechaVenta = v.FechaVenta,
+                    Total = v.Total,
+                    ClienteId = v.ClienteId
+                })
+                .ToListAsync();
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Venta>> GetVenta(int id)
+        public async Task<ActionResult<VentaDto>> GetVenta(int id)
         {
-            var venta = await _context.Ventas.Include(v => v.Producto).FirstOrDefaultAsync(v => v.Id == id);
+            var venta = await _context.Ventas
+                .Where(v => v.Id == id)
+                .Select(v => new VentaDto
+                {
+                    Id = v.Id,
+                    ProductoId = v.ProductoId,
+                    Cantidad = v.Cantidad,
+                    FechaVenta = v.FechaVenta,
+                    Total = v.Total,
+                    ClienteId = v.ClienteId
+                })
+                .FirstOrDefaultAsync();
+
             if (venta == null) return NotFound();
+
             return venta;
         }
 
         [HttpPost]
-        public async Task<ActionResult<Venta>> PostVenta([FromBody] Venta venta)
+        public async Task<ActionResult<VentaDto>> PostVenta([FromBody] VentaDto ventaDto)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
-            var producto = await _context.Productos.FindAsync(venta.ProductoId);
-
-            if (producto == null)
+            var currentDate = DateTime.Today;
+            if (ventaDto.FechaVenta.Date != currentDate)
             {
-                return BadRequest("Producto no existente.");
+                return BadRequest("La fecha de la venta debe ser la fecha del día actual.");
             }
+
+            var venta = new Venta
+            {
+                ProductoId = (int)ventaDto.ProductoId,
+                Cantidad = (int)ventaDto.Cantidad,
+                FechaVenta = ventaDto.FechaVenta,
+                Total = (decimal)ventaDto.Total,
+                ClienteId = (int)ventaDto.ClienteId
+            };
 
             _context.Ventas.Add(venta);
             await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(GetVenta), new { id = venta.Id }, venta);
+
+            ventaDto.Id = venta.Id; 
+
+            return CreatedAtAction(nameof(GetVenta), new { id = ventaDto.Id }, ventaDto);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutVenta(int id, [FromBody] Venta venta)
+        public async Task<IActionResult> PutVenta(int id, [FromBody] VentaDto ventaDto)
         {
-            if (id != venta.Id)
+            if (id != ventaDto.Id)
             {
                 return BadRequest("El ID de la URL no coincide con el ID del cuerpo de la solicitud.");
             }
@@ -64,6 +98,18 @@ namespace GestionInventario.Controllers
             {
                 return BadRequest(ModelState);
             }
+
+            var venta = await _context.Ventas.FindAsync(id);
+            if (venta == null)
+            {
+                return NotFound();
+            }
+
+            venta.ProductoId = (int)ventaDto.ProductoId;
+            venta.Cantidad = (int)ventaDto.Cantidad;
+            venta.FechaVenta = (DateTime)ventaDto.FechaVenta;
+            venta.Total = (decimal)ventaDto.Total;
+            venta.ClienteId = (int)ventaDto.ClienteId;
 
             _context.Entry(venta).State = EntityState.Modified;
 

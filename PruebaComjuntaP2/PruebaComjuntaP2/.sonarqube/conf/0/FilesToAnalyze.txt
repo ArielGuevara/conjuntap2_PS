@@ -3,6 +3,10 @@ C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunta
 C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Controllers\ClienteController.cs
 C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Controllers\ProductoController.cs
 C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Controllers\VentaController.cs
+C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\CategoriaDto.cs
+C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\ClienteDto.cs
+C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\ProductoDto.cs
+C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\VentaDto.cs
 C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Migrations\20250123134226_InitialCreate.cs
 C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Migrations\20250123134226_InitialCreate.Designer.cs
 C:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Migrations\AppDBContextModelSnapshot.cs

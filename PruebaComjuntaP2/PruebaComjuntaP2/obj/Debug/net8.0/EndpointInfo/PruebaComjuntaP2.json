@@ -18,7 +18,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Categoria"
+                    "$ref": "#/components/schemas/CategoriaDto"
                   }
                 }
               },
@@ -26,7 +26,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Categoria"
+                    "$ref": "#/components/schemas/CategoriaDto"
                   }
                 }
               },
@@ -34,7 +34,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Categoria"
+                    "$ref": "#/components/schemas/CategoriaDto"
                   }
                 }
               }
@@ -50,17 +50,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Categoria"
+                "$ref": "#/components/schemas/CategoriaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Categoria"
+                "$ref": "#/components/schemas/CategoriaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Categoria"
+                "$ref": "#/components/schemas/CategoriaDto"
               }
             }
           }
@@ -71,17 +71,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Categoria"
+                  "$ref": "#/components/schemas/CategoriaDto"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Categoria"
+                  "$ref": "#/components/schemas/CategoriaDto"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Categoria"
+                  "$ref": "#/components/schemas/CategoriaDto"
                 }
               }
             }
@@ -111,17 +111,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Categoria"
+                  "$ref": "#/components/schemas/CategoriaDto"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Categoria"
+                  "$ref": "#/components/schemas/CategoriaDto"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Categoria"
+                  "$ref": "#/components/schemas/CategoriaDto"
                 }
               }
             }
@@ -147,17 +147,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Categoria"
+                "$ref": "#/components/schemas/CategoriaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Categoria"
+                "$ref": "#/components/schemas/CategoriaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Categoria"
+                "$ref": "#/components/schemas/CategoriaDto"
               }
             }
           }
@@ -203,7 +203,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Cliente"
+                    "$ref": "#/components/schemas/ClienteDto"
                   }
                 }
               },
@@ -211,7 +211,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Cliente"
+                    "$ref": "#/components/schemas/ClienteDto"
                   }
                 }
               },
@@ -219,7 +219,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Cliente"
+                    "$ref": "#/components/schemas/ClienteDto"
                   }
                 }
               }
@@ -235,17 +235,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cliente"
+                "$ref": "#/components/schemas/ClienteDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cliente"
+                "$ref": "#/components/schemas/ClienteDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Cliente"
+                "$ref": "#/components/schemas/ClienteDto"
               }
             }
           }
@@ -256,17 +256,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Cliente"
+                  "$ref": "#/components/schemas/ClienteDto"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Cliente"
+                  "$ref": "#/components/schemas/ClienteDto"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Cliente"
+                  "$ref": "#/components/schemas/ClienteDto"
                 }
               }
             }
@@ -296,17 +296,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Cliente"
+                  "$ref": "#/components/schemas/ClienteDto"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Cliente"
+                  "$ref": "#/components/schemas/ClienteDto"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Cliente"
+                  "$ref": "#/components/schemas/ClienteDto"
                 }
               }
             }
@@ -332,17 +332,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cliente"
+                "$ref": "#/components/schemas/ClienteDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Cliente"
+                "$ref": "#/components/schemas/ClienteDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Cliente"
+                "$ref": "#/components/schemas/ClienteDto"
               }
             }
           }
@@ -388,7 +388,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Producto"
+                    "$ref": "#/components/schemas/ProductoDto"
                   }
                 }
               },
@@ -396,7 +396,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Producto"
+                    "$ref": "#/components/schemas/ProductoDto"
                   }
                 }
               },
@@ -404,7 +404,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Producto"
+                    "$ref": "#/components/schemas/ProductoDto"
                   }
                 }
               }
@@ -420,17 +420,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Producto"
+                "$ref": "#/components/schemas/ProductoDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Producto"
+                "$ref": "#/components/schemas/ProductoDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Producto"
+                "$ref": "#/components/schemas/ProductoDto"
               }
             }
           }
@@ -441,17 +441,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Producto"
+                  "$ref": "#/components/schemas/ProductoDto"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Producto"
+                  "$ref": "#/components/schemas/ProductoDto"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Producto"
+                  "$ref": "#/components/schemas/ProductoDto"
                 }
               }
             }
@@ -481,17 +481,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Producto"
+                  "$ref": "#/components/schemas/ProductoDto"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Producto"
+                  "$ref": "#/components/schemas/ProductoDto"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Producto"
+                  "$ref": "#/components/schemas/ProductoDto"
                 }
               }
             }
@@ -517,17 +517,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Producto"
+                "$ref": "#/components/schemas/ProductoDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Producto"
+                "$ref": "#/components/schemas/ProductoDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Producto"
+                "$ref": "#/components/schemas/ProductoDto"
               }
             }
           }
@@ -573,7 +573,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Venta"
+                    "$ref": "#/components/schemas/VentaDto"
                   }
                 }
               },
@@ -581,7 +581,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Venta"
+                    "$ref": "#/components/schemas/VentaDto"
                   }
                 }
               },
@@ -589,7 +589,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Venta"
+                    "$ref": "#/components/schemas/VentaDto"
                   }
                 }
               }
@@ -605,17 +605,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Venta"
+                "$ref": "#/components/schemas/VentaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Venta"
+                "$ref": "#/components/schemas/VentaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Venta"
+                "$ref": "#/components/schemas/VentaDto"
               }
             }
           }
@@ -626,17 +626,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Venta"
+                  "$ref": "#/components/schemas/VentaDto"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Venta"
+                  "$ref": "#/components/schemas/VentaDto"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Venta"
+                  "$ref": "#/components/schemas/VentaDto"
                 }
               }
             }
@@ -666,17 +666,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Venta"
+                  "$ref": "#/components/schemas/VentaDto"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Venta"
+                  "$ref": "#/components/schemas/VentaDto"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Venta"
+                  "$ref": "#/components/schemas/VentaDto"
                 }
               }
             }
@@ -702,17 +702,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Venta"
+                "$ref": "#/components/schemas/VentaDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Venta"
+                "$ref": "#/components/schemas/VentaDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Venta"
+                "$ref": "#/components/schemas/VentaDto"
               }
             }
           }
@@ -748,57 +748,44 @@
   },
   "components": {
     "schemas": {
-      "Categoria": {
-        "required": [
-          "nombre"
-        ],
+      "CategoriaDto": {
         "type": "object",
         "properties": {
           "id": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "nombre": {
-            "minLength": 1,
-            "type": "string"
-          },
-          "descripcion": {
             "type": "string",
             "nullable": true
           },
-          "productos": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Producto"
-            },
+          "descripcion": {
+            "type": "string",
             "nullable": true
           }
         },
         "additionalProperties": false
       },
-      "Cliente": {
-        "required": [
-          "apellido",
-          "email",
-          "nombre"
-        ],
+      "ClienteDto": {
         "type": "object",
         "properties": {
           "id": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "nombre": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "apellido": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "email": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "telefono": {
             "type": "string",
@@ -807,20 +794,17 @@
         },
         "additionalProperties": false
       },
-      "Producto": {
-        "required": [
-          "nombre",
-          "precio"
-        ],
+      "ProductoDto": {
         "type": "object",
         "properties": {
           "id": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "nombre": {
-            "minLength": 1,
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "descripcion": {
             "type": "string",
@@ -828,46 +812,39 @@
           },
           "precio": {
             "type": "number",
-            "format": "double"
+            "format": "double",
+            "nullable": true
           },
           "cantidadStock": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "categoriaId": {
             "type": "integer",
-            "format": "int32"
-          },
-          "categoria": {
-            "$ref": "#/components/schemas/Categoria"
+            "format": "int32",
+            "nullable": true
           }
         },
         "additionalProperties": false
       },
-      "Venta": {
-        "required": [
-          "cantidad",
-          "clienteId",
-          "fechaVenta",
-          "productoId",
-          "total"
-        ],
+      "VentaDto": {
         "type": "object",
         "properties": {
           "id": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "productoId": {
             "type": "integer",
-            "format": "int32"
-          },
-          "producto": {
-            "$ref": "#/components/schemas/Producto"
+            "format": "int32",
+            "nullable": true
           },
           "cantidad": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "fechaVenta": {
             "type": "string",
@@ -875,14 +852,13 @@
           },
           "total": {
             "type": "number",
-            "format": "double"
+            "format": "double",
+            "nullable": true
           },
           "clienteId": {
             "type": "integer",
-            "format": "int32"
-          },
-          "cliente": {
-            "$ref": "#/components/schemas/Cliente"
+            "format": "int32",
+            "nullable": true
           }
         },
         "additionalProperties": false
