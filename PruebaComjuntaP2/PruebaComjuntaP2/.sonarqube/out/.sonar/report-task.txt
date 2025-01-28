@@ -2,5 +2,5 @@ projectKey=SistemaVentas
 serverUrl=http://localhost:9000
 serverVersion=25.1.0.102122
 dashboardUrl=http://localhost:9000/dashboard?id=SistemaVentas
-ceTaskId=cdd94e9a-4e50-4a99-bea7-7986f72aab0f
-ceTaskUrl=http://localhost:9000/api/ce/task?id=cdd94e9a-4e50-4a99-bea7-7986f72aab0f
+ceTaskId=4a5c30b8-3e7e-4442-808c-d1c8ba69b3dc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=4a5c30b8-3e7e-4442-808c-d1c8ba69b3dc

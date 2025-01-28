@@ -107,13 +107,14 @@ namespace GestionInventario
         [Key]
         public int Id { get; set; }
         [Required]
-        public string Nombre { get; set; }
-        public string Descripcion { get; set; }
+        public string? Nombre { get; set; }
+        [Required]
+        public string? Descripcion { get; set; }
         [Required]
         public decimal Precio { get; set; }
         public int CantidadStock { get; set; }
         public int CategoriaId { get; set; }
-        public Categoria Categoria { get; set; }
+        public Categoria? Categoria { get; set; }
     }
 
     public class Categoria
@@ -121,8 +122,9 @@ namespace GestionInventario
         [Key]
         public int Id { get; set; }
         [Required]
-        public string Nombre { get; set; }
-        public string Descripcion { get; set; }
+        public string? Nombre { get; set; }
+        public string? Descripcion { get; set; }
+        [Required]
         public ICollection<Producto> Productos { get; set; } = new List<Producto>();
     }
 
@@ -132,7 +134,7 @@ namespace GestionInventario
         public int Id { get; set; }
         [Required]
         public int ProductoId { get; set; }
-        public Producto Producto { get; set; }
+        public Producto? Producto { get; set; }
         [Required]
         public int Cantidad { get; set; }
         [Required]
@@ -141,7 +143,7 @@ namespace GestionInventario
         public decimal Total { get; set; }
         [Required]
         public int ClienteId { get; set; }
-        public Cliente Cliente { get; set; }
+        public Cliente? Cliente { get; set; }
     }
 
     public class Cliente

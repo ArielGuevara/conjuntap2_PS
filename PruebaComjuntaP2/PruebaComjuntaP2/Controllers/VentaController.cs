@@ -64,18 +64,26 @@ namespace GestionInventario.Controllers
             }
 
             var currentDate = DateTime.Today;
-            if (ventaDto.FechaVenta.Date != currentDate)
+            if ((ventaDto.FechaVenta?.Date ?? DateTime.UtcNow) != currentDate)
             {
                 return BadRequest("La fecha de la venta debe ser la fecha del día actual.");
             }
 
+            var existingVenta = await _context.Ventas
+                .FirstOrDefaultAsync(v => v.ProductoId == ventaDto.ProductoId && v.Cantidad == ventaDto.Cantidad && v.FechaVenta == ventaDto.FechaVenta);
+
+            if (existingVenta != null)
+            {
+                return Conflict("Ya existe una venta con el mismo producto, cantidad y fecha/hora.");
+            }
+
             var venta = new Venta
             {
-                ProductoId = (int)ventaDto.ProductoId,
-                Cantidad = (int)ventaDto.Cantidad,
-                FechaVenta = ventaDto.FechaVenta,
-                Total = (decimal)ventaDto.Total,
-                ClienteId = (int)ventaDto.ClienteId
+                ProductoId = ventaDto.ProductoId ?? 0,
+                Cantidad = ventaDto.Cantidad ?? 0,
+                FechaVenta = ventaDto.FechaVenta ?? DateTime.UtcNow.Date,
+                Total = ventaDto.Total ?? 0,
+                ClienteId = ventaDto.ClienteId ?? 0
             };
 
             _context.Ventas.Add(venta);
@@ -105,11 +113,11 @@ namespace GestionInventario.Controllers
                 return NotFound();
             }
 
-            venta.ProductoId = (int)ventaDto.ProductoId;
-            venta.Cantidad = (int)ventaDto.Cantidad;
-            venta.FechaVenta = (DateTime)ventaDto.FechaVenta;
-            venta.Total = (decimal)ventaDto.Total;
-            venta.ClienteId = (int)ventaDto.ClienteId;
+            venta.ProductoId = ventaDto.ProductoId ?? 0;
+            venta.Cantidad = ventaDto.Cantidad ?? 0;
+            venta.FechaVenta = ventaDto.FechaVenta ?? DateTime.UtcNow.Date;
+            venta.Total = ventaDto.Total ?? 0;
+            venta.ClienteId = ventaDto.ClienteId ?? 0;
 
             _context.Entry(venta).State = EntityState.Modified;
 

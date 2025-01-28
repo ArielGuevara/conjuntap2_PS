@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +13,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\pruebacomjuntap2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\pruebacomjuntap2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|solutionrelative:pruebacomjuntap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40BF2A93-7F04-449A-BF23-CD2310C3F447}|PruebaComjuntaP2\\PruebaComjuntaP2.csproj|c:\\users\\ariel\\documentos\\repositorios\\pruebas_software_p2p_buena\\pruebacomjuntap2\\pruebacomjuntap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,37 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VentaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Dtos\\VentaDto.cs",
-              "RelativeDocumentMoniker": "PruebaComjuntaP2\\Dtos\\VentaDto.cs",
-              "ToolTip": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Dtos\\VentaDto.cs",
-              "RelativeToolTip": "PruebaComjuntaP2\\Dtos\\VentaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:42:07.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "VentaController.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Controllers\\VentaController.cs",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\Controllers\\VentaController.cs",
               "ToolTip": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Controllers\\VentaController.cs",
               "RelativeToolTip": "PruebaComjuntaP2\\Controllers\\VentaController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAASwEgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwFMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T12:09:45.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\Controllers\\CategoriaController.cs",
@@ -96,37 +83,37 @@
               "RelativeToolTip": "PruebaComjuntaP2\\Controllers\\CategoriaController.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:09:33.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T12:09:33.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\Controllers\\ProductoController.cs",
               "ToolTip": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "PruebaComjuntaP2\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAEwFwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwGEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T12:09:14.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\AppDBContext.cs",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\AppDBContext.cs",
               "ToolTip": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\AppDBContext.cs",
               "RelativeToolTip": "PruebaComjuntaP2\\AppDBContext.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAcwJwAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswH4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:11:42.038Z"
+              "WhenOpened": "2025-01-23T12:11:42.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ClienteDto.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Dtos\\ClienteDto.cs",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\Dtos\\ClienteDto.cs",
@@ -134,25 +121,50 @@
               "RelativeToolTip": "PruebaComjuntaP2\\Dtos\\ClienteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T20:15:33.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T20:15:33.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\Controllers\\ClienteController.cs",
               "ToolTip": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "PruebaComjuntaP2\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T12:10:05.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaComjuntaP2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\appsettings.json",
+              "RelativeToolTip": "PruebaComjuntaP2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T12:31:21.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Dtos\\VentaDto.cs",
+              "RelativeDocumentMoniker": "PruebaComjuntaP2\\Dtos\\VentaDto.cs",
+              "ToolTip": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Dtos\\VentaDto.cs",
+              "RelativeToolTip": "PruebaComjuntaP2\\Dtos\\VentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:42:07.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CategoriaDto.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Dtos\\CategoriaDto.cs",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\Dtos\\CategoriaDto.cs",
@@ -160,12 +172,11 @@
               "RelativeToolTip": "PruebaComjuntaP2\\Dtos\\CategoriaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T20:09:23.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T20:09:23.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductoDto.cs",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\Dtos\\ProductoDto.cs",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\Dtos\\ProductoDto.cs",
@@ -173,20 +184,7 @@
               "RelativeToolTip": "PruebaComjuntaP2\\Dtos\\ProductoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T19:56:20.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\appsettings.json",
-              "RelativeDocumentMoniker": "PruebaComjuntaP2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\appsettings.json",
-              "RelativeToolTip": "PruebaComjuntaP2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-23T12:31:21.294Z"
+              "WhenOpened": "2025-01-23T19:56:20.213Z"
             },
             {
               "$type": "Document",
@@ -202,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PruebaComjuntaP2.csproj",
               "DocumentMoniker": "C:\\Users\\Ariel\\Documentos\\Repositorios\\Pruebas_Software_p2p_buena\\PruebaComjuntaP2\\PruebaComjuntaP2\\PruebaComjuntaP2.csproj",
               "RelativeDocumentMoniker": "PruebaComjuntaP2\\PruebaComjuntaP2.csproj",

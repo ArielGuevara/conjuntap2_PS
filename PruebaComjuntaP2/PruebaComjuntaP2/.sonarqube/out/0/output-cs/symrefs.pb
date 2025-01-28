@@ -4,31 +4,7 @@ nC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunt
  
 , 3 
 1 8  J
-    !! ## %% '' 	√
-éC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Migrations\20250123134226_InitialCreate.cs
-
-		 &
-
-  "P
-4 D  ,, CC `` ee jj (
-   "" '
- " 
-6 7; <<
-    "" "## $$$ !%% $
-'' ")) 
-))4 5))9 :F
-.. 00 22 "33" '44 "55$ )66" '
-88 ":: ;; 
-::5 6::: ;
-==  !==% &F
-EE GG II! &JJ $KK! &LL !MM  %(
-OO "QQ RR XX 
-QQ2 3QQ7 8
-TT  !TT% &
-ZZ  !ZZ% &
-
-qq  $2
-qq6 Fss vv yy ||  
+    !! ## %% '' 	 
 tC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\VentaDto.cs
 
  
@@ -39,13 +15,26 @@ tC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunt
 
  
 
- "
+ #
 
 		 
 
 
 
- Õ
+ ¿
+vC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\ClienteDto.cs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+		 Õ
 wC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\ProductoDto.cs
 
  
@@ -62,20 +51,7 @@ wC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunt
 
 
 
- ¿
-vC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\ClienteDto.cs
-
- 
-
- 
-
- 
-
- 
-
- 
-
-		 ™
+ ™
 xC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Dtos\CategoriaDto.cs
 
  
@@ -84,52 +60,7 @@ xC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunt
 
  
 
- "∫
-ÇC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Controllers\VentaController.cs
-
- !ä
-& .  !(( &QQ RR ff &rr vv 
-ââ 
-èè &
-ëë 
-íí 
-- 4 
-
-? HF
-  ! "  ! "     !
-
-&&2 :
-&&? A))$ &
-(( 55 77 
-)) )) F
-** ,, --! "..  //! "00 11  !
-
-;;2 ;d
-;;P XCC JJ" *KK  (LL' /MM! )NN! )TT VV@ HVVO W
-BB CC, 7
-HH QQ  %TT 
-
-ZZ) 1(
-ZZ6 8\\ ff8 :zz! #F
-ZZN V\\ ll$ ,mm" *nn) 1oo# +pp# +P
-ff gg ll mm nn oo pp rr  
-
-áá  zz  
-
-áá% '
-ââ4 6
-
-ââ' (
-ââ, -
-
-çç) 4
-
-çç9 ;
-èè8 :$
-
-èè 
-êê 
-ëë# (˘
+ "˘
 ÖC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Controllers\ProductoController.cs
 
  $≤
@@ -156,7 +87,7 @@ xC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunt
 
 ;;5 A¨
 ;;Y dBB BB< GBBh sGG LL RR6 ARR] h
-RRâ î[[ $\\ )]]" -^^% 0__# .ee ggC NggU `
+RRâ î[[ $\\ )]] $^^  +__ )ee ggC NggU `
 QQ  TT  (
 RR% &RR* +RRL MRRx y
 YY bb# +ee %
@@ -172,9 +103,9 @@ xC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunt
 áák vááó ¢
 îî )
 ïï# .
-ññ' 2
-óó* 5
-òò( 3
+ññ )
+óó% 0
+òò# .
 
 ÜÜ  
 ââ  >
@@ -328,7 +259,57 @@ xC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunt
 ¢¢8 :
 
 ¢¢+ ,
-¢¢0 1Ë
+¢¢0 1©	
+ÇC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\Controllers\VentaController.cs
+
+ !î
+& .  !(( &HH& .YY ZZ nn &zz ~~ 
+ëë 
+óó &
+ôô 
+öö 
+- 4 
+
+? HF
+  ! "  ! "     !
+
+&&2 :
+&&? A))$ &
+(( 55 77 
+)) )) F
+** ,, --! "..  //! "00 11  !
+
+;;2 ;Ñ
+;;P XCC II: BII_ g
+IIÑ åRR %SS #TT %UU  VV $\\ ^^@ H^^O W
+BB CCB M
+HH KK (
+II% &II* +IIQ RIIt u
+PP YY  %\\ 
+
+bb) 1*
+bb6 8dd nn8 :
+ÇÇ! #F
+bbN Vdd tt 'uu %vv 'ww "xx &P
+nn oo tt uu vv ww xx zz  
+
+èè  
+ÇÇ  
+
+èè% '
+ëë4 6
+
+ëë' (
+ëë, -
+
+ïï) 4
+
+ïï9 ;
+óó8 :$
+
+óó 
+òò 
+ôô# (Ó
 sC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjuntaP2\PruebaComjuntaP2\AppDBContext.cs
 		 - 9
 ; BK R
@@ -364,50 +345,53 @@ sC:\Users\Ariel\Documentos\Repositorios\Pruebas_Software_p2p_buena\PruebaComjunt
 VV VV  
 [[ [[  
 `` ``  
-dd dd  f
-ii    (  (!!  (%%  ())  (~~ #~~H P
-áá 
+dd dd  j
+ii    (  (!!  (%%  ())  (
+ÄÄ #
+ÄÄH P
+ââ 
 ll  !
-nn ! '
-oo !""! ,
-qq &&! '
+nn ! '
+pp """! ,
+rr &&! '
 
-rr  
-ss ,,& 1
-tt "** (<
-ww  //  )22  )77  )tt 
-zz 00 !
-|| 33! '
-}} !88! ,
-~~% .++! *H
+ss  
+tt ,,& 1
+uu #** (<
+xx  //  )22  )77  )uu 
+{{ 00 !
+}} 33! '
+~~ "88! ,
 
-ÅÅ  <<  %??  %CC  %GG  %LL  %
+ÄÄ% .++! *H
 
-ÑÑ == !
+ÉÉ  <<  %??  %CC  %GG  %LL  %
 
-ÜÜ JJ& 0
+ÜÜ == !
 
-áá  HH '
+àà JJ& 0
 
-ââ 
+ââ !HH '
 
-ãã "@@! +
+ãã 
 
-çç DD! &
+çç "@@! +
 
-èè OO& /
+èè DD! &
 
-êê MM &T
+ëë OO& /
 
-ìì  RR  'UU  'ZZ  '__  'cc  '
-êê 
+íí MM &T
 
-ññ SS !
+ïï  RR  'UU  'ZZ  '__  'cc  '
+íí 
 
-òò VV! '
+òò SS !
 
-öö [[! )
+öö VV! '
 
-úú ``! &
+úú [[! )
 
-ùù dd! )
+ûû ``! &
+
+üü dd! )

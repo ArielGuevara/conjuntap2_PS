@@ -90,9 +90,9 @@ namespace GestionInventario.Controllers
             {
                 Nombre = productoDto.Nombre,
                 Descripcion = productoDto.Descripcion,
-                Precio = (decimal)productoDto.Precio,
-                CantidadStock = (int)productoDto.CantidadStock,
-                CategoriaId = (int)productoDto.CategoriaId
+                Precio = productoDto.Precio ?? 0,
+                CantidadStock = productoDto.CantidadStock ?? 0,
+                CategoriaId = productoDto.CategoriaId ?? 0
             };
 
             _context.Productos.Add(producto);
@@ -147,9 +147,9 @@ namespace GestionInventario.Controllers
 
             producto.Nombre = productoDto.Nombre;
             producto.Descripcion = productoDto.Descripcion;
-            producto.Precio = (decimal)productoDto.Precio;
-            producto.CantidadStock = (int)productoDto.CantidadStock;
-            producto.CategoriaId = (int)productoDto.CategoriaId;
+            producto.Precio = productoDto.Precio ?? 0;
+            producto.CantidadStock = productoDto.CantidadStock ?? 0;
+            producto.CategoriaId = productoDto.CategoriaId ?? 0;
 
             _context.Entry(producto).State = EntityState.Modified;
 
